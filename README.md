@@ -1,2 +1,2 @@
-# Mcgill CCCS300_Assignments
- Mcgill CCCS300_Assignments
+# McGill CCCS300_Assignments
+ McGill CCCS300_Assignments
