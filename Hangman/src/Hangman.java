@@ -1,5 +1,3 @@
-// Lazarus Lin 261195054
-// Winter 2024 CCCS300
 import java.util.Scanner;
 public class Hangman {
 	public static void main(String[] args) {

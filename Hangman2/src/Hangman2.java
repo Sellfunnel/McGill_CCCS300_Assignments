@@ -1,6 +1,3 @@
-// Lazarus Lin 261195054
-// Winter 2024 CCCS300
-
 import java.util.Arrays;
 import java.util.Scanner;
 
